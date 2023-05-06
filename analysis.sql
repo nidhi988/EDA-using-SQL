@@ -1,3 +1,5 @@
+some of basic sql queries.
+
 #to retrieve all data from the table.
 select * from zomato_data;
 
