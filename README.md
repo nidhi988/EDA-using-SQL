@@ -14,7 +14,7 @@ DATA ANALYSIS BEGINS:</p>
 Few of the Insights:
 1. In Delhi, Connaught Palace has maximum number of listed restaurents(122).
 2. In Mumbai, Casual dining restaurents have maximum amount of presence over Bar, Cafe, Quick bites and Fine dining.
-3. Top 3 casual dining places in Mumbai are: 
+3. Top 3 casual dining places in Mumbai are: jumjoji, Konkani restaurent, The Cheaters.
 4. Most popular cuisines in Connaught Place is North Indian Food.
 5. Out of 122 restaurants in Connaught Place only 54 restaurants provide table booking facility to their customers.
 6. Around 60% of restaurents in Bangalore accepts online order from their customers.
