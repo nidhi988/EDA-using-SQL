@@ -19,6 +19,5 @@ Few of the Insights:
 5. Out of 122 restaurants in Connaught Place only 54 restaurants provide table booking facility to their customers.
 6. Around 60% of restaurents in Bangalore accepts online order from their customers.
 7. Around 85% of restaurents in Bangalore doesn't provides table booking criteria.
-8. Ratings more than 4.5 are less in amount.
-9. Top ten famous cuisines in Bangalore are: North Indian, South Indian, Chinese, Biryani, Bakery & Desserts, Fast food, Cafe, Desserts, etc.
+8. Top ten famous cuisines in Bangalore are: North Indian, South Indian, Chinese, Biryani, Bakery & Desserts, Fast food, Cafe, Desserts, etc.
 Similarly much more analysis can be done on this dataset.
